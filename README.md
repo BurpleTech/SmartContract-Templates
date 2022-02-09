@@ -75,7 +75,7 @@ The contract should cover the following functionality:
 4. Click on the dropdown and you should see your POKEMON NFT Listed
 
 <p align="center">
-  <img src="./images/Poke_Tok.jpg" alt="Size Limit CLI" width="300">
+  <img src="./images/poke_tok.jpg" alt="Size Limit CLI" width="300">
 </p>
 
 Voila! You have deployed your ERC721 Smart Contract and Minted a NFT. :1st_place_medal:
