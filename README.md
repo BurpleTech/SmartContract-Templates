@@ -8,7 +8,7 @@ Open source Burple smart contract templates for anyone to use. This is our contr
 
 ## Objective
 
-Create a [ERC-721](http://erc721.org/) NFT smart contract and "Retrieve" a "Digital Asset" by its "Token ID".
+Create a [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) NFT smart contract and "Retrieve" a "Digital Asset" by its "Token ID".
 
 The contract should cover the following functionality:
 
