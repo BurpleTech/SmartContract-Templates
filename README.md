@@ -1,6 +1,9 @@
 # SmartContract-Templates
-Open source Burple smart contract templates for anyone to use. This is our contribution to our community, we will be releasing more in the future.
+Open source Burple smart contract templates for anyone to use.
 
+This is our contribution to our community, we will be releasing more in the future.
+
+[Burple Website](https://burple.tech/)
 ---
 
 # ERC721 NFT Token Contract :rocket:
@@ -8,7 +11,7 @@ Open source Burple smart contract templates for anyone to use. This is our contr
 
 ## Objective
 
-Create a [ERC-721](http://erc721.org/) NFT smart contract and "Retrieve" a "Digital Asset" by its "Token ID".
+Create a [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) NFT smart contract and "Retrieve" a "Digital Asset" by its "Token ID".
 
 The contract should cover the following functionality:
 
@@ -20,7 +23,7 @@ The contract should cover the following functionality:
 ## Initialize a development project in Remix IDE
 1. Open [Remix IDE](https://remix.ethereum.org/) in Web Browser.
 2. Create a ```Contract.sol``` file inside your Workspace.
-3. Copy & Paste the code from [Burple_Contract-Templates](https://github.com/sarangBurpGod/Burple_Contract-Templates/blob/main/contract/ERC721TokenContract.sol) <img src="https://burple.tech/logo-w.png" alt="Size Limit CLI" width="30"> public repo to your ```Contract.sol``` file. 
+3. Copy & Paste the code from [Burple_Contract-Templates](https://github.com/BurpleTech/SmartContract-Templates/blob/main/contract/ERC20TokenContract.sol) <img src="https://burple.tech/logo-w.png" alt="Size Limit CLI" width="30"> public repo to your ```Contract.sol``` file. 
 
 <p align="center">
   <img src="./images/ide_code_setup.jpg" alt="Size Limit CLI" width="738">
@@ -75,7 +78,7 @@ The contract should cover the following functionality:
 4. Click on the dropdown and you should see your POKEMON NFT Listed
 
 <p align="center">
-  <img src="./images/Poke_Tok.jpg" alt="Size Limit CLI" width="300">
+  <img src="./images/poke_tok.jpg" alt="Size Limit CLI" width="300">
 </p>
 
 Voila! You have deployed your ERC721 Smart Contract and Minted a NFT. :1st_place_medal:
@@ -96,7 +99,7 @@ The contract should cover the following functionality:
 ## Initialize a development project in Remix IDE
 1. Open [Remix IDE](https://remix.ethereum.org/) in Web Browser.
 2. Create a ```Contract.sol``` file inside your Workspace.
-3. Copy & Paste the code from [Burple_Contract-Templates](https://github.com/sarangBurpGod/Burple_Contract-Templates/blob/main/contract/ERC20TokenContract.sol) <img src="https://burple.tech/logo-w.png" alt="Size Limit CLI" width="30"> public repo to your ```Contract.sol``` file. 
+3. Copy & Paste the code from [Burple_Contract-Templates](https://github.com/BurpleTech/SmartContract-Templates/blob/main/contract/ERC721TokenContract.sol) <img src="https://burple.tech/logo-w.png" alt="Size Limit CLI" width="30"> public repo to your ```Contract.sol``` file. 
 
 <p align="center">
   <img src="./images/ide_code_setup_20.jpg" alt="Size Limit CLI" width="738">
